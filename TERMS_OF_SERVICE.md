@@ -35,6 +35,7 @@ These Terms shall be governed by the laws of India.
 
 ## 9. Contact Us
 If you have any questions about these Terms, please contact us at: 
+
 [Roni.Das.26.10.2010.2046@gmail.com]
 (mailto:Roni.Das.26.10.2010.2046@gmail.com)
 
