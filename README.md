@@ -1,2 +1,6 @@
-# Authra-bot-policies
-Legal documents (Terms of Service &amp; Privacy Policy) for the Authra Discord Verification Bot.
+# Authra Bot Policies
+This repository contains the Terms of Service and Privacy Policy for the Authra Discord Verification Bot.
+
+[Terms of Service]
+
+[Privacy Policy]
