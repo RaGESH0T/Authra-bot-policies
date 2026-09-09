@@ -1,10 +1,16 @@
-Privacy Policy
-Effective Date: 9/9/2026
-Last Updated: 9/9/2026
+# Privacy Policy
 
-This Privacy Policy describes how Authra ("the Bot", "we", "us", "our") collects, uses, and protects your data.
+**Effective Date:** September 9, 2026  
+**Last Updated:** September 9, 2026
 
-1. Data Collection
+This Privacy Policy describes how **Authra** ("the Bot", "we", "us", "our") collects, uses, and protects your data.
+
+---
+
+## 1. Data Collection
+
+...
+
 To provide the verification service, the Bot collects and stores the following limited operational data:
 
 Discord User IDs: To identify users who have completed verification.
