@@ -36,5 +36,4 @@ The Bot does not knowingly collect data from children under 13. If you are a par
 We may update this Privacy Policy from time to time. Users will be notified of changes via a Discord announcement.
 
 ## 8. Contact Us
-If you have any questions about this Privacy Policy, please contact us at:  
-[ravexhq@gmail.com]
+If you have any questions about this Privacy Policy, please contact us at:  ravexhq@gmail.com
